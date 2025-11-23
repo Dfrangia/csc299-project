@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "description": "Test task",
+    "completed": true,
+    "priority": "high",
+    "tags": [
+      "test",
+      "urgent"
+    ],
+    "deadline": null
+  },
+  {
+    "id": 2,
+    "description": "test task",
+    "completed": false,
+    "priority": "medium",
+    "tags": [],
+    "deadline": null
+  }
+]
