@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "description": "test task",
+    "completed": false,
+    "priority": "medium",
+    "tags": [],
+    "deadline": null
+  },
+  {
+    "id": 2,
+    "description": "test task",
+    "completed": false,
+    "priority": "medium",
+    "tags": [],
+    "deadline": null
+  },
+  {
+    "id": 3,
+    "description": "Test task from chat",
+    "completed": false,
+    "priority": "medium",
+    "tags": [],
+    "deadline": null
+  }
+]
