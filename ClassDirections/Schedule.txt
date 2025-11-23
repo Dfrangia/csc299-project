@@ -1,0 +1,59 @@
+https://fpl.cs.depaul.edu/cpitcher/courses/csc299/schedule.html
+
+
+Discord server: CSC299 Discord invite code h8DCHKApmf
+Zoom: CSC299 In-class Zoom Meeting
+Schedule
+View the Reading and Exercise Schedule
+
+View the Final Project Information and Repository Status
+
+Week	Day	Date	Teaching Plan
+1	Wed
+Mon	Sep 10
+Sep 15	Course Overview
+VSCode with Python
+Command Line
+2	Wed
+Mon	Sep 17
+Sep 22	Markdown Format
+JSON Format
+Coding with AI-Chat Assistance
+GitHub
+Learning Concepts and Code through AI Chat
+3	Wed
+Mon	Sep 24
+Sep 29	diff Command
+patch Command
+Git Command Line
+4	Wed
+Mon	Oct 01
+Oct 06	No class Mon, Oct 6, 2025
+Watch Claude Code Lesson
+Git Revisions
+5	Wed
+Mon	Oct 08
+Oct 13	Git Storage Model
+Git Merging and Branches
+6	Wed
+Mon	Oct 15
+Oct 20	Coding with IDE-Integrated AI
+7	Wed
+Mon	Oct 22
+Oct 27	LLM APIs
+8	Wed
+Mon	Oct 29
+Nov 03	Testing Generated Code and Generation of Tests
+9	Wed
+Mon	Nov 05
+Nov 10	Specifications
+Model Context Protocol (MCP)
+Agents and Agentic Coding Patterns with Claude Code
+10	Wed
+Mon	Nov 12
+Nov 17	Retrieval Augmented Generation Systems for Code and Documentation
+jq Command
+11	Wed
+Mon	Nov 19
+Nov 24	Final Project Deadline (2025-11-24 at 1:30PM)
+
