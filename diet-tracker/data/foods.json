@@ -1,0 +1,32 @@
+[
+    {
+        "name": "apple",
+        "quantity": 100.0,
+        "calories": 52.0,
+        "date": "2025-11-23"
+    },
+    {
+        "name": "steak",
+        "quantity": 400.0,
+        "calories": 3520.0000000000005,
+        "date": "2025-11-23"
+    },
+    {
+        "name": "pizza",
+        "quantity": 100.0,
+        "calories": 285.0,
+        "date": "2025-11-23"
+    },
+    {
+        "name": "apple",
+        "quantity": 100.0,
+        "calories": 52.0,
+        "date": "2025-11-23"
+    },
+    {
+        "name": "chicken",
+        "quantity": 200.0,
+        "calories": 660.0,
+        "date": "2025-11-23"
+    }
+]
